@@ -1,0 +1,2 @@
+# Descripcion
+Ejecutando brownie run /scripts/deploy_and_create.py podemos crear nuestro propio token y asignarle una imagen para que se publique tanto en cualquier blockchain ademas de registrarla en la plataforma OpenSea.
